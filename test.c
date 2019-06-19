@@ -2,7 +2,7 @@
 int main()
 {
 	int qwe;
-	qwe  = 123;
+	qwe  = 1234;
 	printf("%d",qwe);
 	return 0;
 }

@@ -5,12 +5,8 @@ int main()
 	qwe  = 1234;
 	int asd;
 	asd = 123;
-	asd = 234;
-<<<<<<< HEAD
-	asd = 22222;
-=======
-	asd = 111111;
->>>>>>> dev
+	asd = 234
+	asd = 666666;
 	printf("%d",qwe);
 	return 0;
 }

@@ -6,6 +6,7 @@ int main()
 	int asd;
 	asd = 123;
 	asd = 234;
+	asd = 111111;
 	printf("%d",qwe);
 	return 0;
 }

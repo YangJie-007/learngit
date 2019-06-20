@@ -6,7 +6,7 @@ int main()
 	int asd;
 	asd = 123;
 	asd = 234
-	asd = 6666668;
+	asd = 66666688;
 	printf("%d",qwe);
 	return 0;
 }
